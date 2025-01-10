@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ResourceServer/bin/Debug/net8.0
+/AuthorizationServer/.vs
+/AuthorizationServer/bin/Debug/net8.0
+/AuthorizationServer/obj
+/ResourceServer/.vs
+/ResourceServer/obj
+/WebApplication/.vs
+/WebApplication/bin/Debug/net8.0
+/WebApplication/obj
+/WebApplication/WebApplicationProject.csproj.user
+*.user
